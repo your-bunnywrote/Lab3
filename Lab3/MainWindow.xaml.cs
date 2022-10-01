@@ -20,7 +20,7 @@ namespace Lab3
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
+    /// </summary>папа
     
     public partial class MainWindow : Window
     {
